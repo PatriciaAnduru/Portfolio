@@ -3,7 +3,7 @@
 #### Author 
 Patricia Adhiambo Anduru
 ## Description
-{This is a detailed CV explaining more about my work and it include every project i have ever undertaken. The page has been created using HTML and CSS. I have also provided links to my works.}
+{This is a landing page to my portfolio explaining more about my work and it include every project i have ever undertaken. The page has been created using HTML and CSS. I have also provided links to my works.}
 ## Setup/Installation Requirements
 * You'll only need a computer and internet to access my portfolio.
 * Clone the repository
