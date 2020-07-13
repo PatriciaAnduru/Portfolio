@@ -1,5 +1,5 @@
 # my-portfolio
-#### {This is an online CV}, {10/07/2020}
+#### {My online CV}, {10/07/2020}
 #### Author 
 Patricia Adhiambo Anduru
 ## Description
