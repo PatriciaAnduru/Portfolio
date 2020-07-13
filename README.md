@@ -15,7 +15,7 @@ Patricia Adhiambo Anduru
 * Run the project on live server
 ## Technologies Used
 {This page was created using HTML and CSS. HTML was used for the structure of the portfolio while css was used to style the portfolio.}
-##Link
+## Link
 https://patriciaanduru.github.io/Portfolio/
 ## Support and contact details
 Email andurupatricia@gmail.com 
