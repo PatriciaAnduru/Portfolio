@@ -5,7 +5,7 @@ Patricia Adhiambo Anduru
 ## Description
 {This is a detailed CV explaining more about my work and it include every project i have ever undertaken. The page has been created using HTML and CSS. I have also provided links to my works.}
 ## Setup/Installation Requirements
-* Youll only need a computer and internet to access my portfolio.
+* You'll only need a computer and internet to access my portfolio.
 * Clone the repository
 * Git clone repository--link
 * Move into the directory
