@@ -12,7 +12,7 @@ Patricia Anduru
 * Move into the directory
 * cd directory name
 * Open project on code editor
-  $code .
+  -$code .
 * Run the project on live server
 ## Technologies Used
 {This page was created using HTML and CSS. HTML was used for the structure of the portfolio while css was used to style the portfolio.}
