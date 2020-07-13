@@ -17,6 +17,6 @@ Patricia Adhiambo Anduru
 {This page was created using HTML and CSS. HTML was used for the structure of the portfolio while css was used to style the portfolio.}
 ## Support and contact details
 Email andurupatricia@gmail.com 
-Phone +254704827097
+Phone +254704827097/0735454819
 ### License
 Copyright (c) {2020} {Patricia Anduru}
