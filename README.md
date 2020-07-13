@@ -8,7 +8,13 @@ Patricia Anduru
 * This is a great place
 * Youll only need a computer and internet to access my portfolio.
 * Simple
-* easy-to-understand
+* Clone the repository
+* Git clone repository--link
+* Move into the directory
+* cd directory name
+* Open project on code editor
+  $code .
+* Run the project on live server
 ## Technologies Used
 {This page was created using HTML and CSS. HTML was used for the structure of the portfolio while css was used to style the portfolio.}
 ## Support and contact details
